@@ -4,10 +4,11 @@ This project is a weather forecast web application that uses the WEATHER API to 
 <img width="1466" alt="Screen Shot 2022-12-09 at 9 58 05 AM" src="https://user-images.githubusercontent.com/106827018/206764109-614ca0f3-be79-4ea3-91a4-f32d721887bf.png">
 
 🔧 Built with
-HTML5
 
-CSS
+*HTML5
 
-Javascript
+*CSS
 
-OpenWeatherMap API
+*Javascript
+
+*OpenWeatherMap API
