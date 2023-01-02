@@ -6,7 +6,7 @@ This project is a weather forecast web application that uses the WEATHER API to 
 # 🔧 Built with
 ***
 
-* TML5
+* HTML5
 
 * CSS
 
